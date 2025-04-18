@@ -3,4 +3,4 @@ This project explores, makes inferences, and models women's inequality comparing
 
 Under the "Figures" directory, you will find saved pngs of the images I created. 
 
-As of 4/18/2025 I am working on developing an interactive webapp version of this project using streamlit. In-progress creation in the "streamlit" folder.
+As of 4/18/2025 I am working on developing an interactive webapp version of this project using streamlit. In-progress creation is the "streamlit_testing" script.
